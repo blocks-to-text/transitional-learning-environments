@@ -85,7 +85,7 @@ This repository is a reference to good programming environments to consider afte
     * Build and deploy projects 
     * Connect to and program hardware
 * [Racket](https://racket-lang.org)
-    * Racket, a Scheme-like functional language
+    * Racket and other Scheme-like functional languages or extensions
     * Explore the connections between mathematics, computing theory & programming
     * Study programming languages by extending Racket
     * Build applications for modeling and analysis
