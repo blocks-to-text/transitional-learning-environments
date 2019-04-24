@@ -73,7 +73,8 @@ This repository is a reference to good programming environments to consider afte
     * Very helpful error messages, feedback and console
 * [Thonny](https://thonny.org) + [birdseye](https://birdseye.readthedocs.io)
     * Python
-    * Step through program execution down to the expression level, inspect programs after they have run, step through down to the expression level
+    * Step through program execution down to the expression level
+    * Inspect programs after they have run
     * Good visualization of function calls
     * Can step forward or backwards 
     * Can load and execute any Python code
