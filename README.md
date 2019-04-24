@@ -11,7 +11,7 @@ This repository is a reference to good programming environments to consider afte
 ### Index:
 * [Blocks to Text](#blocks-to-text)
 * [Program Execution](#program-execution)
-* [Working with Data & CS](#cs-and-working-with-data)
+* [CS & Working with Data](#cs-and-working-with-data)
 * [Software Development](#software-development)
 
 ---
@@ -62,7 +62,7 @@ This repository is a reference to good programming environments to consider afte
 
 ---
 
-## Working With Data and CS
+## CS & Working with Data
 
 * [BlockPy](https://think.cs.vt.edu/blockpy/load)
     * Python
