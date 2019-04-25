@@ -4,7 +4,7 @@ Choosing the right programming language and environment is one of the most impor
 
 You know your students, what are they ready for? what would be most engaging for them? The transition from beginner environments to full text-based programming isn't one skill and one step. Choosing an environment that matches your students' current levels and interests is key.
 
-Making the right choice will involve determining which of the skills you want to address (text? notional machine? computational thinking?) and the types of projects that will be most effective for your students (visual? investigative?). The different environments provide more or less support for different skills and project types.
+Making the right choice will involve determining which of the skills you want to address (text? notional machine? computational thinking?), the types of projects that will be most effective for your students (visual? investigative?) and contextual constraints (existing lesson material, curricular requirements, technical infrastructure). The different environments provide more or less support for different skills and project types.
 
 This repository is a reference to good programming environments to consider after Scratch and it's ilk, organized by which learning objective they best support.  One environment might appear in multiple categories if appropriate.
 
