@@ -9,10 +9,31 @@ Making the right choice will involve determining which of the skills you want to
 This repository is a reference to good programming environments to consider after Scratch and it's ilk, organized by which learning objective they best support.  One environment might appear in multiple categories if appropriate.
 
 ### Index:
-* [Blocks to Text](#blocks-to-text)
-* [Program Execution](#program-execution)
-* [Working with Data & CS](#cs-and-working-with-data)
-* [Software Development](#software-development)
+* [Tutorials vs. Programming Environments](#tutorials-vs-programming-environments)
+* Targeted Learning Objectives
+    * [Blocks to Text](#blocks-to-text)
+    * [Program Execution](#program-execution)
+    * [Working with Data & CS](#cs-and-working-with-data)
+    * [Software Development](#software-development)
+    * [The Web: HTML, CSS & JS](#the-web)
+
+---
+
+## Tutorials vs Programming Environments
+
+Before introducing the learning environments it's important to understand the difference between a tutorial and a programming environment.
+
+A programming environment is any application or website that allows you to write, run, debug and generally work with code.  When you open a programming environment it will usually be empty because they are designed to let you build anything you can dream of starting with a blank page.
+
+Many tutorials take place in custom programming environments, but are not the same thing.  With a tutorial students are guided step-by-step through exploring certain concepts or building a pre-defined project.  It would be impractical to develop your own project in a tutorial environment because there may be no mechanism for saving your work, the environment may not allow you to do everything you need, or simply because they are cluttered with many features you won't need.
+
+A good example to make the distinction clear is Khan Academy's JavaScript course.  They have both an interactive programming environment:
+* [Khan Academy programming environment](https://www.khanacademy.org/computer-programming/new/pjs)
+And tutorials built to run in that programming environment:
+* [Khan Academy tutorial](https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/pt/making-drawings-with-code)
+
+
+[TOP](#transitional-learning-environments)
 
 ---
 
@@ -36,6 +57,20 @@ This repository is a reference to good programming environments to consider afte
     * Can edit the same project in blocks or code, toggling between the two.
     * Turtles, Music, Art or Adventures
     * Can share and remix projects
+* [Mu Editor](https://codewith.mu)
+    * Python
+    * simple and beginner-friendly
+    * Comes with turtle built in, but is optional to use
+    * Can also write and study any basic python script or project
+    * Does not do blocks, but has very helpful auto-complete & pop-up documentation
+    * A basic but good debugger for stepping through and visualizing data structures
+* [Khan Academy](https://www.khanacademy.org/computer-programming/new/pjs)
+    * JavaScript
+    * Build interactive animations & artworks
+    * Detailed and friendly realtime feedback on syntax errors & available language features
+    * Can search, share and modify other student's projects online
+    * Watch in real-time how changes in code effect changes in animations
+
 
 
 [TOP](#transitional-learning-environments)
@@ -57,12 +92,18 @@ This repository is a reference to good programming environments to consider afte
     * Can step forward or backwards 
     * Expression-level inspecting
     * Paired with Thonny, this is a best option for pure-text programming
+* [Mu Editor]()
+    * Python
+    * simple and beginner-friendly
+    * Comes with turtle built in, but optional to use
+    * Does not do blocks, but has very helpful auto-complete & pop-up documentation
+    * A basic but good debugger for stepping through and visualizing data structures
 
 [TOP](#transitional-learning-environments)
 
 ---
 
-## Working With Data and CS
+## CS and Working with Data
 
 * [BlockPy](https://think.cs.vt.edu/blockpy/load)
     * Python
@@ -119,6 +160,21 @@ This repository is a reference to good programming environments to consider afte
 
 [TOP](#transitional-learning-environments)
 
+---
+
+## The Web
+
+JavaScript is not the most beginner-friendly language available.  It is very easy for beginners to write code that doesn't break, but the language is complicated making it a challenge to move beyond the basics and to learn good practices.
+
+That said, JavaScript is still a good option as a first language for other reasons. By virtue of being the language used by all web browsers, the possibilities for real-world projects and self-directed learning are endless.  Students can immediately begin inspecting the websites they visit on a daily basis, making interactive UI's with HTML & CSS, and share their projects as live websites from day 1.
+
+Three great environments for building & sharing web-base projects.  Repl.it & Glitch are both more than beginner environments, while still being quite accessible to beginners they are also great environments for experienced developers to practice and experiment. 
+* [repl.it](https://repl.it/repls)
+* [glitch](https://glitch.com)
+* [codepen](https://codepen.io)
+
+
+[TOP](#transitional-learning-environments)
 
 ___
 ___
