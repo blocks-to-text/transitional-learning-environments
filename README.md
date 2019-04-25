@@ -48,7 +48,8 @@ And tutorials built to run in that programming environment:
     * Very helpful error messages, feedback and console
 * [Trinket](https://trinket.io)
     * Python, HTML/CSS, Java, R, PyGame
-    * In blocks projects, the corresponding python can be seen side-by-side.  A new Python trinket can be generated from any blocks project.
+    * Create projects with blocks, see the python side-by-side.  
+    * A new Python trinket can be generated from any blocks project.
     * Supports turtles, art, music, games, and bare programming
     * Many great tutorials and challenges
     * Can share and remix projects
