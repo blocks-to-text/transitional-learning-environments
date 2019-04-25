@@ -103,7 +103,11 @@ And tutorials built to run in that programming environment:
 
 ---
 
+<<<<<<< HEAD
 ## CS and Working with Data
+=======
+## CS & Working with Data
+>>>>>>> 8fe5738336bc6951ea01f6c330f7eccb22edd0bc
 
 * [BlockPy](https://think.cs.vt.edu/blockpy/load)
     * Python
@@ -126,8 +130,9 @@ And tutorials built to run in that programming environment:
     * Can access API's and cloud data
     * Build and deploy projects 
     * Connect to and program hardware
-* [Racket](https://racket-lang.org)
-    * Racket and other Scheme-like functional languages or extensions
+* [DrRacket](https://racket-lang.org)
+    * Racket, a Scheme-like functional language
+    * Can also execute student or teacher created variations and extensions of Racket
     * Explore the connections between mathematics, computing theory & programming
     * Study programming languages by extending Racket
     * Build applications for modeling and analysis
