@@ -134,6 +134,11 @@ And tutorials built to run in that programming environment:
     * Study programming languages by extending Racket
     * Build applications for modeling and analysis
     * Share and extend projects between students
+* [Snap](https://snap.berkeley.edu/snapsource/dev/snap.html)
+    * Blocks for adults and the serious programmer
+    * Students can extend and customize blocks
+    * Implements full functional programming inspired by Scheme
+    * Can do everything Scratch can do
 
 
 [TOP](#transitional-learning-environments)
