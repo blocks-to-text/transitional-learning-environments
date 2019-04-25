@@ -103,11 +103,7 @@ And tutorials built to run in that programming environment:
 
 ---
 
-<<<<<<< HEAD
 ## CS and Working with Data
-=======
-## CS & Working with Data
->>>>>>> 8fe5738336bc6951ea01f6c330f7eccb22edd0bc
 
 * [BlockPy](https://think.cs.vt.edu/blockpy/load)
     * Python
