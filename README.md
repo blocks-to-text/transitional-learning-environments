@@ -176,9 +176,11 @@ JavaScript is not the most beginner-friendly language available.  It is very eas
 That said, JavaScript is still a good option as a first language for other reasons. By virtue of being the language used by all web browsers, the possibilities for real-world projects and self-directed learning are endless.  Students can immediately begin inspecting the websites they visit on a daily basis, making interactive UI's with HTML & CSS, and share their projects as live websites from day 1.
 
 Three great environments for building & sharing web-base projects.  Repl.it & Glitch are both more than beginner environments, while still being quite accessible to beginners they are also great environments for experienced developers to practice and experiment. 
-* [repl.it](https://repl.it/repls)
-* [glitch](https://glitch.com)
-* [codepen](https://codepen.io)
+
+In order of recommendation:
+1. [glitch](https://glitch.com)
+1. [repl.it](https://repl.it/repls)
+1. [codepen](https://codepen.io)
 
 
 [TOP](#transitional-learning-environments)
