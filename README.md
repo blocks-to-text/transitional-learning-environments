@@ -39,7 +39,7 @@ And tutorials built to run in that programming environment:
 
 ##  Blocks to Text
 
-* [BlockPy](https://think.cs.vt.edu/blockpy/load)
+* [BlockPy](https://think.cs.vt.edu/blockpy/blockpy/load?mode=instructor)
     * Python
     * Edit in blocks, text, or view them both at once
     * Readily import and work with real-world data sets
@@ -106,7 +106,7 @@ And tutorials built to run in that programming environment:
 
 ## CS and Working with Data
 
-* [BlockPy](https://think.cs.vt.edu/blockpy/load)
+* [BlockPy](https://think.cs.vt.edu/blockpy/blockpy/load?mode=instructor)
     * Python
     * Edit in blocks, text, or view them both at once
     * Readily import and work with real-world data sets
